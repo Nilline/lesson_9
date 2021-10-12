@@ -325,12 +325,13 @@ body {
 	max-width: 1327px;
 }
 .token__row {
-	margin: 0px 0px 150px 0px;
+	margin: 0px -10px 150px;
 }
 .token__column {
 	display: inline-block;
 	width: 61.45%;
 	vertical-align: top;
+	padding: 0 10px;
 }
 .token__column_image {
 	width: 38.55%;
