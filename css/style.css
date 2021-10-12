@@ -319,7 +319,7 @@ body {
 /* =================================================================================== */
 .token {
 	font-size: 0;
-	background: url("../img/token/decor-bg.svg") 100% 0 no-repeat;
+	background: url("../img/token/decor-bg.svg") center / cover no-repeat;
 }
 .token__container {
 	max-width: 1327px;
