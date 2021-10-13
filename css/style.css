@@ -849,3 +849,25 @@ body {
 	letter-spacing: 0.15px;
 	color: #5d62b5;
 }
+.footer__homework {
+}
+.homework {
+	background-color: #1A1A1A;
+	padding: 50px 0 0;
+	text-align: center;
+}
+.homework__title {
+	display: inline-block;
+	font-size: 32px;
+	font-weight: 700;
+	background: linear-gradient(139.33deg, #ff7b00 -7.59%, #0099ff 99.86%);
+	/* Поддержка 97% браузеров (проверил) */
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	margin: 0px 0px 30px 0px;
+}
+.homework__image {
+}
+.homework__image img {
+	max-width: 100%;
+}
